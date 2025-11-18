@@ -21,13 +21,13 @@ An interactive Excel dashboard analyzing 1,000+ sales records to uncover pattern
 - **Revenue by Month** – February and August saw a 45% sales increase compared to other months
 
 📁 Sales_Analytics_Dashboard  
- ├── 📂 Dashboard                   # Dashboard files and visuals  
- │     ├── DASHBOARD.PNG            # Dashboard preview image  
- │     └── FNP_SALES_ANALYSIS.xlsx  # Excel dashboard file  
- ├── 📂 Datasets                    # Raw data CSV files used for analysis  
- │     ├── customers.csv  
- │     ├── orders.csv  
- │     └── products.csv  
- ├── 📄 LICENSE                     # License information  
- └── 📄 README.md                   # Project documentation  
+├── 📂 Dashboard                  # Dashboard files and visuals  
+│   ├── DASHBOARD.PNG             # Dashboard preview image  
+│   └── FNP_SALES_ANALYSIS.xlsx   # Excel dashboard file  
+├── 📂 Datasets                   # Raw data CSV files used for analysis  
+│   ├── customers.csv  
+│   ├── orders.csv  
+│   └── products.csv  
+├── 📄 LICENSE                    # License information  
+└── 📄 README.md                  # Project documentation  
 
