@@ -15,7 +15,11 @@ An interactive Excel dashboard analyzing 1,000+ sales records to uncover pattern
 📈 Visual Reports
 
 ✔ Revenue by Occasion – Identified 42% of total earnings from 3 major occasions (Anniversary, Birthday, Raksha Bandhan)
+
 ✔ Revenue by Category – Sweets, Plants, and Soft Toys contributed 55% of category revenue
+
 ✔ Top 5 Products – Generated 35% of total revenue and 28% of total sales volume
+
 ✔ Revenue by Hour – Peak ordering window between 10 AM – 2 PM, showing buyer behavior trends
+
 ✔ Revenue by Month – February & August saw sales spikes of 45% compared to other months
