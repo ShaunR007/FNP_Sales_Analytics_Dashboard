@@ -19,3 +19,16 @@ An interactive Excel dashboard analyzing 1,000+ sales records to uncover pattern
 - **Top 5 Products** – Generated 35% of total revenue and 28% of total sales volume
 - **Revenue by Hour** – Peak purchasing time between 10 AM – 2 PM, showing customer behavior trends
 - **Revenue by Month** – February and August saw a 45% sales increase compared to other months
+
+📂 Sales_Analytics_Dashboard  
+ ├── 📄 README.md                 # Project Introduction and Documentation  
+ ├── 📄 LICENSE                   # License information  
+ ├── 📂 data                      # Raw and processed dataset files  
+ │     ├── customers.csv  
+ │     ├── orders.csv  
+ │     ├── products.csv  
+ ├── 📂 dashboard                 # Excel dashboard files  
+ │     └── FNP_SALES_ANALYSIS.xlsx  
+ ├── 📂 screenshots               # Dashboard images for README preview  
+       └── DASHBOARD.PNG  
+    
