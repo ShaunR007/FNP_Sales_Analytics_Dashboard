@@ -20,14 +20,13 @@ An interactive Excel dashboard analyzing 1,000+ sales records to uncover pattern
 - **Revenue by Hour** – Peak purchasing time between 10 AM – 2 PM, showing customer behavior trends
 - **Revenue by Month** – February and August saw a 45% sales increase compared to other months
 
-📁 Sales_Analytics_Dashboard  
-├── 📂 Dashboard                  # Dashboard files and visuals  
-│   ├── DASHBOARD.PNG             # Dashboard preview image  
-│   └── FNP_SALES_ANALYSIS.xlsx   # Excel dashboard file  
-├── 📂 Datasets                   # Raw data CSV files used for analysis  
-│   ├── customers.csv  
-│   ├── orders.csv  
-│   └── products.csv  
-├── 📄 LICENSE                    # License information  
-└── 📄 README.md                  # Project documentation  
-
+📂 Sales_Analytics_Dashboard  
+├── 📂 Dashboard  
+│   ├── 📸 [DASHBOARD.PNG](Dashboard/DASHBOARD.PNG)  
+│   └── 📊 [FNP_SALES_ANALYSIS.xlsx](Dashboard/FNP_SALES_ANALYSIS.xlsx)  
+├── 📂 Datasets  
+│   ├── 📄 [customers.csv](Datasets/customers.csv)  
+│   ├── 📄 [orders.csv](Datasets/orders.csv)  
+│   └── 📄 [products.csv](Datasets/products.csv)  
+├── 📄 [LICENSE](LICENSE)  
+└── 📄 [README.md](README.md)  
